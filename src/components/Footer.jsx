@@ -154,7 +154,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaMapMarkedAlt />
-                  <span>65 Sunflower Drive, Beveridge, VIC, 3753</span>
+                  <span>Corio, VIC 3214</span>
                 </li>
               </ul>
             </div>
