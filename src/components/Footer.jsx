@@ -154,7 +154,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaMapMarkedAlt />
-                  <span>Corio, VIC 3214</span>
+                  <span>Charlemont 3217</span>
                 </li>
               </ul>
             </div>
