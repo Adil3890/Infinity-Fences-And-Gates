@@ -43,7 +43,7 @@ const Navbar = () => {
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
             <FaMapMarkerAlt className="text-xl" />
-            <span>Corio, VIC 3214</span>
+            <span>Charlemont 3217</span>
           </span>
         </div>
 
