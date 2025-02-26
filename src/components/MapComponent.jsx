@@ -15,7 +15,7 @@ const markerIcon = new L.Icon({
 });
 
 const MapComponent = () => {
-  const position = [40.741895, -73.989308]; // Example coordinates (replace with your location)
+  const position = [-38.2127378, 144.3651205]; // Example coordinates (replace with your location)
 
   return (
     <div className="h-96 w-full rounded-lg overflow-hidden shadow-lg">

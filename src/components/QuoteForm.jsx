@@ -175,7 +175,7 @@ const QuoteForm = () => {
 
           {/* Popup for successful message */}
           {showPopup && (
-            <div className="text-white text-center mt-4 p-2 bg-green-500 rounded-md">
+            <div className="text-green-800 font-bold text-center mt-6 px-4 py-3 bg-white rounded-md">
               Quotation Request Sent Successfully!
             </div>
           )}

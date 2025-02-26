@@ -26,6 +26,11 @@ const Navbar = () => {
     navigate(path); // Redirect to the selected page
   };
 
+  const handleLogoClick = () => {
+    window.location.reload();
+    navigate("/home", { replace: true });
+  };
+
   return (
     <header className="bg-bluish text-white">
       {/* Top info bar */}
@@ -95,8 +100,9 @@ const Navbar = () => {
           <div className="flex-1 flex justify-start">
             <img
               src={logo}
+              onClick={handleLogoClick}
               alt="Infinity Fences and Gates"
-              className="h-20 w-auto"
+              className="h-20 w-auto cursor-pointer"
             />
           </div>
 
