@@ -43,7 +43,7 @@ const Navbar = () => {
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
             <FaPhoneAlt className="text-xl" />
-            <span>0426 367 181</span>
+            <span>0404 545 707</span>
           </span>
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
@@ -55,7 +55,7 @@ const Navbar = () => {
         {/* Social media icons */}
         <div className="flex space-x-2 mt-2 md:mt-0">
           <Link
-            to="https://wa.me/0426367181"
+            to="https://wa.me/0404545707"
             className="text-white bg-green-500 text-xl p-2 rounded-full"
             target="_blank"
           >
