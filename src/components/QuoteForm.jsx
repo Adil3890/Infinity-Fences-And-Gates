@@ -133,10 +133,10 @@ const QuoteForm = () => {
                 required
               >
                 <option value="">Select Fencing Service</option>
-                <option value="Wooden Fencing">Wooden Fencing</option>
+                <option value="Wooden Fencing">Timber Fencing</option>
                 <option value="Aluminium Fencing">Aluminium Fencing</option>
                 <option value="Picket Fencing">Picket Fencing</option>
-                <option value="Farm Fencing">Farm Fencing</option>
+                <option value="Farm Fencing">Colorbond Fencing</option>
                 <option value="Fencing Installation">
                   Fencing Installation
                 </option>
