@@ -150,7 +150,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaPhoneAlt />
-                  <span>0404 545 707</span>
+                  <span>+61 404 545 707</span>
                 </li>
                 <li className="flex items-center space-x-2">
                   <FaMapMarkedAlt />
@@ -176,7 +176,7 @@ const Footer = () => {
           {/* Icons section */}
           <div className="flex space-x-2 mt-2 md:mt-0 mr-12">
             <Link
-              to="https://wa.me/0426367181"
+              to="https://wa.me/+61404545707"
               className="text-white bg-green-500 text-xl p-2 rounded-full"
               target="_blank"
             >
@@ -192,14 +192,14 @@ const Footer = () => {
             </Link>
 
             <a
-              href="tel:0426367181"
+              href="tel:0404545707"
               className="text-white bg-blue-700 text-xl p-2 rounded-full"
             >
               <FaPhoneAlt />
             </a>
 
             <a
-              href="mailto:abdullah311002@gmail.com"
+              href="mailto:infinityfencesandgates@gmail.com"
               className="text-white bg-red-500 text-xl p-2 rounded-full"
             >
               <FaEnvelope />
