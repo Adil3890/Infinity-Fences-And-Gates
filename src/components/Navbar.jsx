@@ -43,7 +43,7 @@ const Navbar = () => {
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
             <FaPhoneAlt className="text-xl" />
-            <span>+610404545707</span>
+            <span>0404 545 707</span>
           </span>
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
@@ -55,7 +55,7 @@ const Navbar = () => {
         {/* Social media icons */}
         <div className="flex space-x-2 mt-2 md:mt-0">
           <Link
-            to="https://wa.me/0404545707"
+            to="https://wa.me/+610404545707"
             className="text-white bg-green-500 text-xl p-2 rounded-full"
             target="_blank"
           >
@@ -71,14 +71,14 @@ const Navbar = () => {
           </Link>
 
           <a
-            href="tel:0426367181"
+            href="tel:0404545707"
             className="text-white bg-blue-700 text-xl p-2 rounded-full"
           >
             <FaPhoneAlt />
           </a>
 
           <a
-            href="mailto:abdullah311002@gmail.com"
+            href="mailto:infinityfencesandgates@gmail.com"
             className="text-white bg-red-500 text-xl p-2 rounded-full"
           >
             <FaEnvelope />
