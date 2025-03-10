@@ -43,7 +43,7 @@ const Navbar = () => {
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
             <FaPhoneAlt className="text-xl" />
-            <span>0404 545 707</span>
+            <span>+61 0404 545 707</span>
           </span>
           <FaGripLinesVertical className="text-2xl" />
           <span className="flex items-center space-x-2 text-[15px] font-500 leading-[27.8571px]">
