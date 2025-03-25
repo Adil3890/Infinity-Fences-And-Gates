@@ -22,8 +22,8 @@ const Footer = () => {
                 <img src={logo} alt="Company Logo" className="h-16 mb-4" />
                 <p className="text-sm">
                   We provide affordable and professional fencing and gate
-                  services throughout Victoria, with a special focus on Infinity
-                  and Melbourne. Our commitment to quality ensures that every
+                  services throughout Victoria, with a special focus in geelong and
+                  surrounding areas. Our commitment to quality ensures that every
                   project is handled with precision, delivering reliable and
                   aesthetically pleasing solutions for both residential and
                   commercial properties.
